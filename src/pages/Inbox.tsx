@@ -24,7 +24,7 @@ const Inbox = () => {
       question: 'Should I get bangs?',
       options: [
         { id: 1, text: 'Yes, do it!', votes: 14 },
-        { id: 2, text: 'No, you'll regret it', votes: 36 },
+        { id: 2, text: 'No, you\'ll regret it', votes: 36 },
       ],
       totalVotes: 50,
       createdAt: '2023-05-13T10:45:00Z',
